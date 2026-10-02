@@ -6,14 +6,17 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=wahidkhanwazir&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
+<a href="https://github.com/wahidkhanwazir">
+  <img src="https://img.shields.io/github/followers/wahidkhanwazir?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<a href="https://wahid-portfolio-ivory.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Website-00BFFF?style=for-the-badge&logo=vercel" alt="Live Portfolio"/>
+</a>
+<a href="https://github.com/wahidkhanwazir?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
 
@@ -21,7 +24,7 @@
 
 ![Location](https://img.shields.io/badge/📍%20Islamabad%2C%20Pakistan-0A66C2?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen?style=flat-square)
-![Open To](https://img.shields.io/badge/Open%20To-Collaboration-orange?style=flat-square)
+![Open To](https://img.shields.io/badge/Open%20To-Remote%20%26%20Contracts-orange?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-purple?style=flat-square)
 
 </div>
@@ -30,45 +33,40 @@
 
 # 👨‍💻 About Me
 
-Hi! I'm **Wahid Khan Wazir**, a passionate **Senior Flutter Developer** with **3+ years of professional experience** building modern, scalable, and production-ready applications.
+Hi! I'm **Wahid Khan Wazir**, a passionate **Senior Flutter Developer** with **3+ years of professional experience** building modern, scalable, cross-platform mobile and web applications.
 
-I specialize in creating **cross-platform mobile applications**, integrating powerful backends, designing responsive interfaces, and transforming ideas into complete digital products.
+I specialize in creating high-performance applications with **Flutter & Dart**, integrating powerful backends, designing responsive interfaces, and transforming ideas into complete digital products.
 
-I enjoy working across the entire development lifecycle — from **UI/UX implementation and API integration to database design, authentication, deployment, and performance optimization.**
+I enjoy working across the entire development lifecycle — from **UI/UX implementation and API integration to database design, authentication, CI/CD deployment, and performance optimization.**
 
 ### 🚀 What I Do
 
-* 📱 Build cross-platform applications using **Flutter & Dart**
-* 🎨 Create modern, responsive and pixel-perfect UI
-* 🔌 Integrate **REST APIs & third-party services**
-* 🔥 Work with **Firebase & Supabase**
-* 🗄️ Design and work with databases
-* 🧠 Implement scalable **state management & clean architecture**
-* 🌐 Build web applications and dashboards
-* ⚙️ Develop **POS, ERP & business management systems**
-* 🔐 Implement authentication and role-based access
-* 🚀 Optimize application performance
-* 🧪 Debug, test and maintain production applications
-* 🤝 Collaborate with teams using Git & GitHub
+* 📱 Build cross-platform iOS & Android apps using **Flutter & Dart**
+* 🎨 Design modern, responsive, and pixel-perfect UIs
+* 🔌 Integrate **REST APIs, WebSockets & third-party services**
+* 🔥 Work with **Firebase & Supabase** backends
+* 🗄️ Database architecture & management (**PostgreSQL, SQLite, MongoDB**)
+* 🧠 Implement scalable **State Management (Bloc, Provider, GetX) & Clean Architecture**
+* ⚙️ Develop **POS, ERP & Business Management Systems**
+* 🌐 Build web applications with **Next.js, React & ASP.NET Core**
+* ♾️ Set up **CI/CD Pipelines & Automated Builds**
+* 🔐 Implement secure authentication (OAuth, JWT, Firebase Auth)
+* 🚀 Optimize app performance, memory management, and load times
+* 🤝 Collaborate with global remote teams using Git, GitHub, Jira & Figma
 
 ---
 
 # 💼 Current Role
 
 ### 🏢 Senior Flutter Developer
-
 **Holistic TLC Corporation — USA**
 
-Currently working on production-level applications while focusing on:
-
-* Cross-platform mobile development
-* API integrations
-* Firebase services
-* State management
-* Clean architecture
-* Performance optimization
-* Feature development
-* Bug fixing and application maintenance
+Developing production-ready, scalable cross-platform mobile applications with a strong focus on:
+* Clean Architecture & Maintainable Codebases
+* Advanced State Management & API Integrations
+* Real-time Firebase & Supabase Syncing
+* Continuous Integration & CD Pipelines
+* Code Reviews, Bug Fixing & Performance Tuning
 
 ---
 
@@ -77,19 +75,15 @@ Currently working on production-level applications while focusing on:
 <div align="center">
 
 ### 📱 Mobile Development
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift" />
 
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nextjs,react,nodejs,html,css,js" />
+### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,dotnet,cs,html,css,js" />
 
 ### ☁️ Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,sqlite,postgres" />
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,sqlite,mongodb,mysql" />
 
 ### 🛠️ Tools & DevOps
-
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,figma,vscode" />
 
 </div>
@@ -100,106 +94,58 @@ Currently working on production-level applications while focusing on:
 
 | Category             | Technologies                                           |
 | -------------------- | ------------------------------------------------------ |
-| **Mobile**           | Flutter, Dart, Kotlin, Android                         |
-| **Frontend**         | Flutter, React, Next.js, HTML, CSS, JavaScript         |
+| **Mobile**           | Flutter, Dart, Kotlin, Swift                           |
+| **Frontend**         | Flutter Web, Next.js, React, HTML5, CSS3, JavaScript   |
 | **Backend**          | Node.js, ASP.NET Core, REST APIs                       |
-| **Databases**        | Firebase, Supabase, SQLite, MySQL, PostgreSQL, MongoDB |
-| **State Management** | Provider, GetX, Riverpod                               |
-| **Architecture**     | Clean Architecture, MVC, MVVM                          |
-| **Authentication**   | Firebase Auth, Supabase Auth, JWT                      |
-| **APIs**             | REST APIs, JSON, Postman                               |
-| **Version Control**  | Git, GitHub                                            |
-| **Design**           | Figma, Responsive UI/UX                                |
-| **Business Systems** | POS, ERP, Inventory, Sales & Purchase Systems          |
+| **Databases**        | Firebase, Supabase, PostgreSQL, SQLite, MongoDB        |
+| **State Management** | Bloc, Provider, GetX, Riverpod                         |
+| **Architecture**     | Clean Architecture, MVVM, MVC                          |
+| **DevOps & CI/CD**   | Git, GitHub Actions, Fastlane, Docker                  |
+| **APIs**             | REST APIs, GraphQL, WebSockets, Postman                |
+| **Design**           | Figma, Responsive UI/UX, Custom Animations             |
+| **Business Systems** | POS, ERP, Inventory Management, E-Commerce Systems    |
 
 ---
 
 # 🌟 Featured Projects
 
-### 🛒 Bannu Woolen Mills
-
-**E-commerce mobile application** for Bannu Woolen Mills that allows customers to browse products and purchase clothing online.
-
-**Technologies:** Flutter • Firebase • REST APIs
-
----
-
-### 📖 Hayat-e-Sahaba
-
-A complete book converted into a modern, smooth and easy-to-read mobile application.
-
-**Technologies:** Flutter • Local Storage • GetStorage
-
----
-
-### 🧒 Learning Town for Kids
-
-An educational application designed for children with interactive learning content including:
-
-* 🔤 Islamic ABCs
-* 🔢 Numbers
-* 🐘 Animals
-* 🔷 Shapes
-* 🎨 Colors
-* 🍎 Fruits
-* 📚 Educational activities
-
-**Technologies:** Flutter • Dart
-
----
-
-### 🎨 AR Drawing Sketch
-
-An interactive **AR-based drawing application** designed for kids, allowing them to enjoy creative drawing experiences.
-
-📱 Available on Google Play Store
-
-**Technologies:** Flutter • AR • Camera
-
----
-
 ### 🧘 AeonAnima
-
 A self-reflection and journaling application featuring guided prompts and AI-assisted insights.
-
-📱 Available on **Google Play Store & Apple App Store**
-
-**Technologies:** Flutter • AI • REST APIs • Firebase
+* 📱 **Available on Google Play Store & Apple App Store**
+* **Technologies:** Flutter • AI Integration • REST APIs • Firebase
 
 ---
 
 ### ⚽ Turf'D
-
-A sports venue discovery and booking platform designed to connect players with sports venues.
-
-The platform includes separate experiences for:
-
-* 🏃 Players
-* 🏟️ Venue Owners
-* 📅 Reservations
-* 💰 Earnings
-* ❤️ Favorites
-* ⭐ Reviews
-* 📊 Dashboards
-
-**Technologies:** Flutter • Supabase • REST APIs • PostgreSQL
+A comprehensive sports venue discovery and booking platform connecting players and venue owners.
+* **Features:** Separate portals for Players & Venue Owners, Reservation Management, Earnings Dashboard, Reviews & Ratings.
+* **Technologies:** Flutter • Supabase • REST APIs • PostgreSQL
 
 ---
 
 ### 🚗 TyreBook / Business POS
+A complete business management and POS solution tailored for tyre shops and retail businesses.
+* **Features:** Point of Sale, Purchases, Udhar Ledger, Customer Accounts, Inventory & Business Reports.
+* **Technologies:** .NET MAUI • Blazor Hybrid • SQLite • ASP.NET Core
 
-A business management and POS solution designed for tyre shops and local businesses.
+---
 
-Features include:
+### 🏢 TradeFlow ERP
+An Enterprise Resource Planning system built to streamline business workflows, sales, and supply chain.
+* **Features:** Multi-branch inventory tracking, sales analytics, purchase orders, financial reports.
+* **Technologies:** .NET Core • React • SQL Server • REST APIs
 
-* 🧾 Sales
-* 📦 Purchases
-* 💰 Payments
-* 📒 Customer Ledger / Udhar
-* 📊 Business Reports
-* 🏷️ Inventory Management
+---
 
-**Technologies:** .NET MAUI • Blazor Hybrid • SQLite • ASP.NET Core
+### 🛒 Bannu Woollen Mills
+An e-commerce mobile application allowing customers to browse products and make purchases online.
+* **Technologies:** Flutter • Firebase • REST APIs
+
+---
+
+### 🏥 BKMC Pharmacy System
+A healthcare inventory and prescription management app for hospital pharmacies.
+* **Technologies:** Flutter • Node.js • MongoDB • Clean Architecture
 
 ---
 
@@ -207,9 +153,9 @@ Features include:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wahidkhanwazir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidkhanwazir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
@@ -219,7 +165,7 @@ Features include:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=wahidkhanwazir&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -229,7 +175,7 @@ Features include:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wahidkhanwazir&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -238,73 +184,8 @@ Features include:
 # 🎯 What I'm Currently Working On
 
 ```text
-📱 Advanced Flutter Applications
-🌐 Full-Stack Web Applications
-⚙️ ASP.NET Core & REST APIs
-🔥 Firebase & Supabase Integrations
-🗄️ Database Architecture
-💼 POS & ERP Solutions
-🏟️ Sports Booking Platforms
-🤖 AI-Powered Applications
-☁️ Cloud & Backend Technologies
-```
-
----
-
-# 🌱 Currently Learning
-
-* 🔹 Advanced **ASP.NET Core**
-* 🔹 **Next.js & Full-Stack Development**
-* 🔹 Advanced **System Architecture**
-* 🔹 **Cloud & Backend Technologies**
-* 🔹 AI Integration in Applications
-* 🔹 Scalable Database Architecture
-* 🔹 Advanced Flutter Performance Optimization
-
----
-
-# 🏆 My Development Philosophy
-
-> **"Write clean code. Build useful products. Keep learning."**
-
-I believe good software isn't just about making something work.
-
-It's about creating software that is:
-
-**⚡ Fast • 🧠 Scalable • 🎨 Beautiful • 🔐 Secure • 🛠️ Maintainable • ❤️ User-Friendly**
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:wahidkhanhec07@gmail.com">
-<img src="https://img.shields.io/badge/Email-wahidkhanhec07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://linkedin.com/in/your-linkedin-username">
-<img src="https://img.shields.io/badge/LinkedIn-Wahid%20Khan%20Wazir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Wahid%20Khan%20Wazir-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Open to interesting projects, collaborations & opportunities
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B2FF7&height=120&section=footer"/>
-
-</div>
+📱 Production Mobile Applications with Flutter & Clean Architecture
+🌐 Web Applications using Next.js & ASP.NET Core
+⚙️ Automated CI/CD Pipelines for App Store & Play Store Deployments
+🔥 Real-time Supabase & Firebase Integrations
+🤖 AI Integration into Mobile & Web Apps
