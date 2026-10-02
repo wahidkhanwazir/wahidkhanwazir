@@ -1,12 +1,14 @@
 <div align="center">
 
-# 🚀 Hi, I'm Wahid Khan Wazir
-**Flutter & Full-Stack Engineer** | Mobile Developer | Backend Specialist
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Wahid+Khan+Wazir+%F0%9F%91%8B;Flutter+%26+Full-Stack+Engineer+%F0%9F%9A%80;Mobile+Developer+%26+Backend+Specialist+%F0%9F%92%BB;3%2B+Years+of+Professional+Experience+%E2%9A%A1;Building+Scalable+%26+Beautiful+Applications+%F0%9F%8C%8D" alt="Typing SVG" />
+
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00BFFF?style=for-the-badge&logo=vercel)](https://wahid-portfolio-ivory.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-wahidkhahec07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahidkhahec07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahidkhanwazir)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/wahidkhanwazir)
 
 </div>
 
@@ -54,12 +56,14 @@ I am a **results-driven Flutter & Full-Stack Developer** with **3+ years** of pr
 ### 📊 GitHub Productivity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wahidkhanwazir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidkhanwazir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=wahidkhanwazir&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -69,9 +73,9 @@ I am a **results-driven Flutter & Full-Stack Developer** with **3+ years** of pr
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-wahid--portfolio--ivory.vercel.app-00BFFF?style=for-the-badge)](https://wahid-portfolio-ivory.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-wahidkhahec07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahidkhahec07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wahid_Khan_Wazir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/📧_Email-wahidkhahec07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahidkhahec07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wahid_Khan_Wazir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahidkhanwazir)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/wahidkhanwazir)
 
 </div>
 
