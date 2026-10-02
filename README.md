@@ -43,15 +43,13 @@ I am a **results-driven Flutter & Full-Stack Developer** with **3+ years** of pr
 
 ### 🛠️ My Tech Stack
 
-| Category              | Tools & Technologies                                      |
-|-----------------------|-----------------------------------------------------------|
-| **Mobile**            | Flutter, Dart, .NET MAUI, iOS & Android                   |
-| **Frontend / Web**    | React, Next.js, TypeScript, HTML, CSS, Bootstrap          |
-| **Backend**           | ASP.NET Core, Node.js, Express.js, FastAPI, REST APIs     |
-| **Cloud & Auth**      | Firebase (Auth, Firestore, Storage, FCM), Supabase, OAuth |
-| **Databases**         | SQL Server, SQLite, SQFlite, PostgreSQL, MongoDB          |
-| **State Management**  | Provider, GetX, Riverpod                                  |
-| **AI & Tools**        | AI Model Integration, Claude, GPT, Cursor, Postman, Git   |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend & Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend & APIs** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Cloud & Auth** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ---
 
@@ -75,7 +73,7 @@ I am a **results-driven Flutter & Full-Stack Developer** with **3+ years** of pr
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-wahid--portfolio--ivory.vercel.app-00BFFF?style=for-the-badge)](https://wahid-portfolio-ivory.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-wahidkhahec07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahidkhahec07@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-wahidkhahec07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahidkhahec07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wahid_Khan_Wazir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahidkhanwazir)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/wahidkhanwazir)
 
